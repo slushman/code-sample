@@ -16,9 +16,9 @@ Adds the Code Sample TinyMCE plugin to the WordPress editor.
 
 Adds the Code Sample TinyMCE plugin to the WorPress editor.
 
-The [Code Sample](https://www.tinymce.com/docs/plugins/codesample/) plugin is developed by [TinyMCE](https://www.tinymce.com/).
-This plugin adds a code sample button, which brings up a modal window where the user can enter their 
-code sample and select the language. The plugin inserts the code sample wrapped in `<pre>` and `<code>` tags.
+The Code Sample plugin is developed by TinyMCE. This plugin adds a code sample button, which brings up a 
+modal window where the user can enter their code sample and select the language. The plugin inserts the 
+code sample wrapped in `<pre>` and `<code>` tags.
 
 This plugin does not include syntax highlighting.
 
