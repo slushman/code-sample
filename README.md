@@ -1,18 +1,4 @@
-=== Code Sample ===
-Contributors: slushman
-Donate link: https://www.slushman.com/
-Tags: editor, code
-Requires at least: 3.0.1
-Tested up to: 4.9.6
-Stable tag: 1.0.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Adds the Code Sample TinyMCE plugin to the WordPress editor.
-
-
-
-== Description ==
+# Code Sample
 
 Adds the Code Sample TinyMCE plugin to the editor.
 
@@ -24,30 +10,21 @@ This plugin does not include syntax highlighting.
 
 
 
-== Installation ==
+## Installation
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
-
-
-
-== Frequently Asked Questions ==
-
-= Is syntax highlighting included? =
-
-No, there is no syntax highlighting included here. Just the Code Sample plugin and the button.
+1. Download the zip file from Github using the "clone or download" button.
+2. Log into your WordPress site and go to Plugins
+3. Click the "Add New" button at the top
+4. Click the "Upload Plugin" button at the top.
+5. CLick the "Choose File" button and choose the file from your computer.
+6. Activate the plugin once installed
 
 
 
-== Changelog ==
-
-= 1.0.0 =
-* Plugin published.
+## Authors
+Chris Wilcoxson - [slushman](https://www.slushman.com/)
 
 
 
-== Upgrade Notice ==
-
-= 1.0.0 =
-* Plugin published.
+## License
+This project is licensed under the GPLv2 license or later - see the [LICENSE](http://www.gnu.org/licenses/gpl-2.0.html)
