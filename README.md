@@ -1,8 +1,8 @@
 # Code Sample
 
-Adds the Code Sample TinyMCE plugin to the editor.
+Adds the Code Sample TinyMCE plugin to the WordPress editor.
 
-The Code Sample plugin for TinyMCE is developer by TinyMCE. This plugin adds a code sample button, 
+The Code Sample plugin for TinyMCE is developed by TinyMCE. This plugin adds a code sample button, 
 which brings up a modal window where the user can enter their code sample and select the language. The 
 plugin inserts the code sample wrapped in `<pre>` and `<code>` tags.
 
@@ -16,7 +16,7 @@ This plugin does not include syntax highlighting.
 2. Log into your WordPress site and go to Plugins
 3. Click the "Add New" button at the top
 4. Click the "Upload Plugin" button at the top.
-5. CLick the "Choose File" button and choose the file from your computer.
+5. Click the "Choose File" button and choose the file from your computer.
 6. Activate the plugin once installed
 
 
