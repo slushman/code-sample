@@ -14,6 +14,17 @@
  *
  * @since 					1.0.0
  * @package 				Code_Sample
+ * 
+ * @todo 		Extend the code block to include selecting the language as a block setting.
+ * 					Include the list from Prism.js.
+ * 					Should this just be a separate block?
+ * @todo 		Add the selected language in a rel attribute on the pre element.
+ * @todo 		Add "language-xxx" class to the code element to support prism.js & Google Pretty Print.
+ * @todo 		Add "xxx" class to the code element to support highlight.js & syntaxhighlighter.
+ * @todo 		Add data-language="xxx" attribute to code element to support rainbow.js.
+ * @todo 		Add "sh_xxx" class to code element to support SHJS.
+ * @todo 		Add "prettyprint" class to pre element to support Google Pretty Print.
+ * 
  */
 
 // Exit if accessed directly.
