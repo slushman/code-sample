@@ -18,7 +18,7 @@ Adds the Code Sample TinyMCE plugin to the editor.
 
 The Code Sample plugin for TinyMCE is developer by TinyMCE. This plugin adds a code sample button, 
 which brings up a modal window where the user can enter their code sample and select the language. The 
-plugin inserts the code sample wrapped in <pre> and <code> tags.
+plugin inserts the code sample wrapped in `<pre>` and `<code>` tags.
 
 This plugin does not include syntax highlighting.
 
